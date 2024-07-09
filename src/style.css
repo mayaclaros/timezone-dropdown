@@ -1,4 +1,7 @@
 .country {
   text-align: center;
-  color: purple;
+  color: black;
+  padding: 5px 8px;
+  font-weight: bold;
+  margin: 10px 10px 10px 10px;
 }
